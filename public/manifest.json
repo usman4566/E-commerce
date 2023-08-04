@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "short_name": "BuyIt!",
+  "name": "React App - BuyIt!",
+  "author": "gelabert.fede@gmail.com",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone"
+}
